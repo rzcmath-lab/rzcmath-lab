@@ -16,6 +16,9 @@
   ECNU · Kuaishou · IM Motors · Shanghai · 2027 Graduate
 </p>
 <p align="center">
+  <strong>From mathematical modeling and production ML to multi-agent applications and self-evolving agent systems.</strong>
+</p>
+<p align="center">
   <a href="mailto:51275500047@stu.ecnu.edu.cn">Email</a>
 </p>
 
@@ -23,15 +26,15 @@
   <tr>
     <td width="50%" valign="top">
       <h2>💼 Experience</h2>
-      <p><strong>Kuaishou · Agent Engineering</strong><br/>Agent self-improvement, skill evolution, and long-session reliability.</p>
-      <p><strong>IM Motors · Agent Applications</strong><br/>Multi-agent workflows for data analysis and document automation.</p>
-      <p><strong>Algorithm & Risk Modeling</strong><br/>Robust modeling under class imbalance and temporal distribution shift.</p>
+      <p><strong>Kuaishou · Agent Engineering</strong><br/>Going beyond agent applications into self-improvement, skill evolution, long-context reliability, and runtime-oriented engineering.</p>
+      <p><strong>IM Motors · Agent Applications</strong><br/>Moved from model-centric ML to end-to-end multi-agent applications for data analysis and automation.</p>
+      <p><strong>Production ML · Recommendation & Risk</strong><br/>Applied machine learning under real-world data constraints, focusing on feature engineering, robustness, and generalization.</p>
     </td>
     <td width="50%" valign="top">
-      <h2>🔬 Research & Engineering</h2>
-      <p><a href="https://github.com/rzcmath-lab/agent-self-evolution"><strong>Agent Self-Evolution</strong></a><br/>Trace-grounded diagnosis and reviewable skill proposals.</p>
-      <p><a href="https://github.com/rzcmath-lab/chat-excel-agent-workbench"><strong>ChatExcel Agent Workbench</strong></a><br/>System design for a controlled data-analysis agent.</p>
-      <p><a href="https://github.com/rzcmath-lab/agent-engineering-notes"><strong>Agent Engineering Notes</strong></a><br/>Structured notes on runtime, memory, RAG, and evaluation.</p>
+      <h2>🔬 Research Foundation</h2>
+      <p><strong>Nuclear Science and Techniques · First Author</strong><br/>AI methods and research directions in reactor physics.</p>
+      <p><strong>Journal of Nuclear Engineering and Radiation Science · Second Author</strong><br/>Machine-learning-based reactor parameter inference.</p>
+      <p><strong>AI for Science</strong><br/>Mathematical modeling, scientific machine learning, and complex-system reasoning.</p>
     </td>
   </tr>
 </table>
@@ -63,16 +66,21 @@
 
 More engineering evidence: [Memory Recall](https://github.com/rzcmath-lab/agent-memory-recall) · [Skill Governance](https://github.com/rzcmath-lab/agent-skill-governance)
 
-## Selected Publications
+## Selected Research
 
-- **First author** · [*Artificial intelligence in reactor physics: current status and future prospects*](https://doi.org/10.1007/s41365-026-01928-z)  
-  *Nuclear Science and Techniques*, 37, 100 (2026).
-- **Second author** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236)  
-  *Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801 (2026).
-- **Co-author** · [*Distribution Ratio Prediction of Major Components in 30%TBP/kerosene-HNO3 System Based on Machine Learning*](https://doi.org/10.7538/yzk.2024.youxian.0238)  
-  *Atomic Energy Science and Technology*, 59(1), 14–23 (2025).
-- **Co-author** · [*机器学习在PUREX工艺中的应用综述*](https://www.qikan.com.cn/article/b31620250206.html)  
-  *Journal of Sichuan University (Natural Science Edition)*, No. 2 (2025).
+Research foundation in mathematical modeling and scientific machine learning before moving into production AI systems.
+
+**First author · Nuclear Science and Techniques (2026)**  
+[*Artificial intelligence in reactor physics: current status and future prospects*](https://doi.org/10.1007/s41365-026-01928-z) · Vol. 37, Article 100
+
+<details>
+<summary><strong>View all 4 publications</strong></summary>
+
+- **Second author** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236), *Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801 (2026).
+- **Co-author** · [*Distribution Ratio Prediction of Major Components in 30%TBP/kerosene-HNO3 System Based on Machine Learning*](https://doi.org/10.7538/yzk.2024.youxian.0238), *Atomic Energy Science and Technology*, 59(1), 14–23 (2025).
+- **Co-author** · [*机器学习在PUREX工艺中的应用综述*](https://www.qikan.com.cn/article/b31620250206.html), *Journal of Sichuan University (Natural Science Edition)*, No. 2 (2025).
+
+</details>
 
 ## Tech Stack
 
