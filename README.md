@@ -1,103 +1,81 @@
 <p align="center">
-  <strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a>
+  <a href="./README.zh-CN.md">简体中文</a> · <strong>English</strong>
 </p>
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Zhang Ruizhi — AI Agent Engineer" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Ruizhi Zhang — AI Agent Engineer" width="100%" />
 </p>
+
+<h1 align="center">Hi, I'm Ruizhi Zhang · 张睿志</h1>
+<h3 align="center">AI Agent Engineer</h3>
 
 <p align="center">
-  <a href="mailto:51275500047@stu.ecnu.edu.cn"><img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-2563EB?style=flat-square" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Location-Shanghai-475569?style=flat-square" alt="Shanghai" />
+  Agent Self-Evolution · Agent Runtime · Context Engineering · AI Applications
 </p>
-
-## About me
-
-I'm **Ruizhi Zhang (张睿志)**, a master's student in Computational Mathematics at **East China Normal University**, jointly trained with **Shanghai Jiao Tong University**.
-
-I build AI agents that move beyond demos: systems with clear workflows, reliable tool use, controlled context, and observable execution. My recent work spans **agent self-improvement and skill evolution**, **multi-agent orchestration**, and **full-stack AI applications**.
-
-- 🧠 Strong mathematical foundation with a top-3% undergraduate record
-- 🛠️ Fast at turning new techniques into working, testable systems
-- 🔍 Interested in Agent Runtime, Context Engineering, Memory, RAG, Tool Use, and Evaluation
-- 🚀 Seeking **2027 graduate roles** in AI Agent Engineering / LLM Applications
-
-## Featured engineering evidence
-
-| Repository | What it demonstrates |
-| --- | --- |
-| [agent-self-evolution](https://github.com/rzcmath-lab/agent-self-evolution) | Sanitized design for trace-grounded failure attribution, reviewable skill proposals, and deterministic validation |
-| [chat-excel-agent-workbench](https://github.com/rzcmath-lab/chat-excel-agent-workbench) | Documentation-only case study of a controlled AI spreadsheet-analysis workspace |
-| [agent-engineering-notes](https://github.com/rzcmath-lab/agent-engineering-notes) | Structured notes on agent architecture, tools, context, memory, and evaluation |
-
-> Public repositories contain sanitized Markdown documentation only. Proprietary implementations, internal data, prompts, configurations, and credentials are not published.
-
-## What I work on
+<p align="center">
+  ECNU · Kuaishou · IM Motors · Shanghai · 2027 Graduate
+</p>
+<p align="center">
+  <a href="mailto:51275500047@stu.ecnu.edu.cn">Email</a>
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Agent self-improvement</h3>
-      <p>Designed a workflow that turns long user sessions and tool traces into grounded failure analysis and reviewable skill updates.</p>
-      <p><code>Trace Analysis</code> <code>Skill Evolution</code> <code>Context Engineering</code></p>
+      <h2>💼 Experience</h2>
+      <p><strong>Kuaishou · Agent Engineering</strong><br/>Agent self-improvement, skill evolution, and long-session reliability.</p>
+      <p><strong>IM Motors · Agent Applications</strong><br/>Multi-agent workflows for data analysis and document automation.</p>
+      <p><strong>Algorithm & Risk Modeling</strong><br/>Robust modeling under class imbalance and temporal distribution shift.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Multi-agent applications</h3>
-      <p>Built LangGraph-based agents for data analysis, document automation, UI generation, and planning workflows.</p>
-      <p><code>LangGraph</code> <code>RAG</code> <code>Tool Calling</code> <code>Memory</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      | [agent-memory-recall](https://github.com/rzcmath-lab/agent-memory-recall) | Privacy-safe, grep-first recall and layered memory policies for long-running agents |
-| [agent-skill-governance](https://github.com/rzcmath-lab/agent-skill-governance) | Evidence-based admission, ownership, deduplication, and review patterns for skill evolution |
-      <h3>AI application engineering</h3>
-      <p>Deliver end-to-end prototypes across agent orchestration, backend services, data storage, and web interfaces.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>SQL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI for Science</h3>
-      <p>Apply machine learning and deep learning to complex physical systems, including reactor parameter inference and industrial prediction.</p>
-      <p><code>Machine Learning</code> <code>Time Series</code> <code>Scientific ML</code></p>
+      <h2>🔬 Research & Engineering</h2>
+      <p><a href="https://github.com/rzcmath-lab/agent-self-evolution"><strong>Agent Self-Evolution</strong></a><br/>Trace-grounded diagnosis and reviewable skill proposals.</p>
+      <p><a href="https://github.com/rzcmath-lab/chat-excel-agent-workbench"><strong>ChatExcel Agent Workbench</strong></a><br/>System design for a controlled data-analysis agent.</p>
+      <p><a href="https://github.com/rzcmath-lab/agent-engineering-notes"><strong>Agent Engineering Notes</strong></a><br/>Structured notes on runtime, memory, RAG, and evaluation.</p>
     </td>
   </tr>
 </table>
 
-## Selected experience
+## Featured Projects
 
-**Kuaishou · AI Agent Engineering Intern**  
-Building an agent self-learning pipeline for coding-oriented skills: evidence localization, failure attribution, reusable knowledge extraction, and controlled skill evolution. Worked on long-context compression, runtime workflows, and quality governance for generated changes.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/rzcmath-lab/agent-self-evolution">Agent Self-Evolution</a></h3>
+      <p><code>Context Engineering</code> <code>Skill Evolution</code> <code>Agent Runtime</code></p>
+      <p>Turns long-session traces into evidence-backed failure attribution and reviewable skill updates.</p>
+      <p><strong>Architecture · Case Study · Design</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/rzcmath-lab/chat-excel-agent-workbench">ChatExcel Agent Workbench</a></h3>
+      <p><code>LangGraph</code> <code>Tool Calling</code> <code>Data Agent</code></p>
+      <p>Explores planning, controlled execution, analysis, and visualization for structured data.</p>
+      <p><strong>System Design · Interview Deep Dive</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/rzcmath-lab/agent-engineering-notes">Agent Engineering Notes</a></h3>
+      <p><code>Memory</code> <code>RAG</code> <code>Runtime</code> <code>Evaluation</code></p>
+      <p>A compact knowledge base for building reliable, observable agent systems.</p>
+      <p><strong>Read Notes →</strong></p>
+    </td>
+  </tr>
+</table>
 
-**SAIC Motor / IM Motors · AI Agent Engineering Intern**  
-Led a small intern group building multi-scenario agents with LangGraph. Developed data-analysis and document-automation workflows, and explored an end-to-end path from product requirements to UI and functional delivery.
+More engineering evidence: [Memory Recall](https://github.com/rzcmath-lab/agent-memory-recall) · [Skill Governance](https://github.com/rzcmath-lab/agent-skill-governance)
 
-**Data-driven risk modeling · Algorithm Lead**  
-Developed robust credit-risk models under severe class imbalance and temporal distribution shift. Worked on feature stability, interpretable modeling, and focal-loss-based optimization.
+## Selected Publications
 
-## Technical toolkit
+- **First author** · [*Artificial intelligence in reactor physics: current status and future prospects*](https://doi.org/10.1007/s41365-026-01928-z)  
+  *Nuclear Science and Techniques*, 37, 100 (2026).
+- **Second author** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236)  
+  *Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801 (2026).
+- **Co-author** · [*Distribution Ratio Prediction of Major Components in 30%TBP/kerosene-HNO3 System Based on Machine Learning*](https://doi.org/10.7538/yzk.2024.youxian.0238)  
+  *Atomic Energy Science and Technology*, 59(1), 14–23 (2025).
+- **Co-author** · [*机器学习在PUREX工艺中的应用综述*](https://www.qikan.com.cn/article/b31620250206.html)  
+  *Journal of Sichuan University (Natural Science Edition)*, No. 2 (2025).
 
-| Area | Tools & concepts |
-| --- | --- |
-| Agent systems | LangGraph, LangChain, RAG, Tool Calling, Memory, Multi-agent orchestration, Agent evaluation |
-| Engineering | Python, TypeScript, FastAPI, React, Vite, PostgreSQL, SQLite, Git |
-| Machine learning | XGBoost, LightGBM, feature engineering, imbalanced learning, time-series modeling |
-| Current interests | Agent Runtime, Context Engineering, Skill evolution, Coding agents, Agent observability |
+## Tech Stack
 
-## Research
+`Python` · `LangGraph` · `FastAPI` · `React` · `PostgreSQL` · `RAG` · `Tool Calling`
 
-- First-author research on deep learning, reinforcement learning, and generative modeling for complex physical systems, published in *Nuclear Science and Techniques*.
-- Research on distribution-ratio prediction for spent nuclear fuel reprocessing, published in *Atomic Energy Science and Technology*.
-- Presented *Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference* at the Chinese Nuclear Society Annual Conference.
-
-## Currently exploring
-
-- More reliable skill evolution from real-world agent traces
-- Efficient evidence retrieval from long, tool-heavy conversations
-- Runtime boundaries for planning, execution, review, and deterministic validation
-- Practical evaluation methods for agentic coding systems
-
-<p align="center">
-  <sub>Open to conversations about AI agents, LLM applications, and 2027 graduate opportunities.</sub>
-</p>
-
+**Currently exploring:** Agent Runtime · Context Engineering · Coding Agents · Skill Evolution
