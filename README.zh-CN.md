@@ -1,102 +1,81 @@
 <p align="center">
-  <a href="./README.md">English</a> · <strong>简体中文</strong>
+  <strong>简体中文</strong> · <a href="./README.md">English</a>
 </p>
 
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="张睿志 — AI Agent 工程师" width="100%" />
 </p>
 
+<h1 align="center">你好，我是张睿志 · Ruizhi Zhang</h1>
+<h3 align="center">AI Agent 工程师</h3>
+
 <p align="center">
-  <a href="mailto:51275500047@stu.ecnu.edu.cn"><img src="https://img.shields.io/badge/邮箱-联系我-111827?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
-  <img src="https://img.shields.io/badge/方向-Agentic%20AI-2563EB?style=flat-square" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/地点-上海-475569?style=flat-square" alt="上海" />
+  Agent 自我演化 · Agent Runtime · 上下文工程 · AI 应用
 </p>
-
-## 关于我
-
-我是 **张睿志（Ruizhi Zhang）**，华东师范大学计算数学硕士研究生，与上海交通大学联合培养。
-
-我专注于构建不止停留在演示阶段的 AI Agent：具备清晰工作流、可靠工具调用、可控上下文和可观测执行过程的真实系统。近期工作涵盖 **Agent 自我改进与 Skill 演化**、**多智能体编排**和**AI 应用全栈开发**。
-
-- 🧠 扎实的数学基础，本科成绩排名前 3%
-- 🛠️ 擅长将新技术快速落地为可运行、可测试的系统
-- 🔍 关注 Agent Runtime、上下文工程、Memory、RAG、工具调用与评测
-- 🚀 寻找 **2027 届 AI Agent 工程 / 大模型应用方向**岗位
-
-## 公开工程证据
-
-| 仓库 | 展示内容 |
-| --- | --- |
-| [agent-self-evolution](https://github.com/rzcmath-lab/agent-self-evolution) | 基于轨迹证据的失败归因、可审查 Skill 提案与确定性验证设计 |
-| [chat-excel-agent-workbench](https://github.com/rzcmath-lab/chat-excel-agent-workbench) | 受控智能表格分析工作台的纯文档、脱敏系统设计案例 |
-| [agent-engineering-notes](https://github.com/rzcmath-lab/agent-engineering-notes) | Agent 架构、工具、上下文、记忆与评测的体系化笔记 |
-
-> 公开仓库只包含脱敏 Markdown 文档；专有实现、内部数据、Prompt、配置和凭据均不公开。
-
-## 我的方向
+<p align="center">
+  华东师范大学 · 快手 · 上汽智己 · 上海 · 2027 届
+</p>
+<p align="center">
+  <a href="mailto:51275500047@stu.ecnu.edu.cn">邮箱联系</a>
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Agent 自我改进</h3>
-      <p>设计从长会话和工具调用轨迹中提取可靠证据、定位失败原因并生成可审查 Skill 更新的工作流。</p>
-      <p><code>轨迹分析</code> <code>Skill 演化</code> <code>上下文工程</code></p>
+      <h2>💼 经历</h2>
+      <p><strong>快手 · Agent 工程</strong><br/>Agent 自我改进、Skill 演化与长会话可靠性。</p>
+      <p><strong>上汽智己 · Agent 应用</strong><br/>面向数据分析与文档自动化的多智能体工作流。</p>
+      <p><strong>算法与风控建模</strong><br/>类别不平衡与时间分布漂移下的稳健建模。</p>
     </td>
     <td width="50%" valign="top">
-      <h3>多智能体应用</h3>
-      <p>基于 LangGraph 构建数据分析、文档自动化、UI 生成和规划工作流等多场景 Agent。</p>
-      <p><code>LangGraph</code> <code>RAG</code> <code>工具调用</code> <code>Memory</code></p>
-    </td>
-  </tr>
-  <tr>
-    | [agent-memory-recall](https://github.com/rzcmath-lab/agent-memory-recall) | 面向长会话 Agent 的隐私安全、grep-first 证据召回与分层记忆策略 |
-| [agent-skill-governance](https://github.com/rzcmath-lab/agent-skill-governance) | Skill 演化中的证据准入、归属、语义去重与全局审查方法 |
-    <td width="50%" valign="top">
-      <h3>AI 应用工程</h3>
-      <p>覆盖 Agent 编排、后端服务、数据存储与 Web 界面的端到端原型交付。</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>SQL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI for Science</h3>
-      <p>将机器学习和深度学习用于复杂物理系统，包括反应堆参数推断与工业预测。</p>
-      <p><code>机器学习</code> <code>时间序列</code> <code>科学机器学习</code></p>
+      <h2>🔬 研究与工程</h2>
+      <p><a href="https://github.com/rzcmath-lab/agent-self-evolution"><strong>Agent Self-Evolution</strong></a><br/>基于轨迹证据的失败诊断与可审查 Skill 提案。</p>
+      <p><a href="https://github.com/rzcmath-lab/chat-excel-agent-workbench"><strong>ChatExcel Agent Workbench</strong></a><br/>受控数据分析 Agent 的系统设计。</p>
+      <p><a href="https://github.com/rzcmath-lab/agent-engineering-notes"><strong>Agent Engineering Notes</strong></a><br/>Runtime、Memory、RAG 与评测的体系化笔记。</p>
     </td>
   </tr>
 </table>
 
-## 精选经历
+## 精选项目
 
-**快手 · AI Agent 工程实习生**  
-参与面向 Coding Skill 的 Agent 自学习流程建设，覆盖证据定位、失败归因、可复用知识提取和受控 Skill 演化；研究长上下文压缩、运行时工作流及生成变更的质量治理。
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/rzcmath-lab/agent-self-evolution">Agent Self-Evolution</a></h3>
+      <p><code>上下文工程</code> <code>Skill 演化</code> <code>Agent Runtime</code></p>
+      <p>从长会话轨迹中提取证据，完成失败归因并形成可审查的 Skill 更新。</p>
+      <p><strong>架构 · 案例 · 设计</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/rzcmath-lab/chat-excel-agent-workbench">ChatExcel Agent Workbench</a></h3>
+      <p><code>LangGraph</code> <code>工具调用</code> <code>Data Agent</code></p>
+      <p>探索结构化数据场景中的规划、受控执行、分析与可视化。</p>
+      <p><strong>系统设计 · 面试深挖</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/rzcmath-lab/agent-engineering-notes">Agent Engineering Notes</a></h3>
+      <p><code>Memory</code> <code>RAG</code> <code>Runtime</code> <code>评测</code></p>
+      <p>面向可靠、可观测 Agent 系统的精炼知识库。</p>
+      <p><strong>阅读笔记 →</strong></p>
+    </td>
+  </tr>
+</table>
 
-**上汽集团 / 智己汽车 · AI Agent 工程实习生**  
-带领实习生小组使用 LangGraph 构建多场景 Agent，开发数据分析与文档自动化工作流，并探索从产品需求到 UI 与功能交付的端到端路径。
+更多工程证据：[记忆召回](https://github.com/rzcmath-lab/agent-memory-recall) · [Skill 治理](https://github.com/rzcmath-lab/agent-skill-governance)
 
-**数据驱动风控建模 · 算法负责人**  
-面向严重类别不平衡与时间分布漂移问题构建稳健信用风险模型，开展特征稳定性、可解释建模及基于 Focal Loss 的优化。
+## 代表论文
+
+- **第一作者** · [*Artificial intelligence in reactor physics: current status and future prospects*](https://doi.org/10.1007/s41365-026-01928-z)  
+  *Nuclear Science and Techniques*, 37, 100 (2026)。
+- **第二作者** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236)  
+  *Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801 (2026)。
+- **共同作者** · [《基于机器学习的30%TBP/煤油-硝酸体系中主要组分的分配比预测研究》](https://doi.org/10.7538/yzk.2024.youxian.0238)  
+  《原子能科学技术》，59(1)：14–23（2025）。
+- **共同作者** · [《机器学习在PUREX工艺中的应用综述》](https://www.qikan.com.cn/article/b31620250206.html)  
+  《四川大学学报（自然科学版）》，2025 年第 2 期。
 
 ## 技术栈
 
-| 方向 | 工具与概念 |
-| --- | --- |
-| Agent 系统 | LangGraph、LangChain、RAG、工具调用、Memory、多智能体编排、Agent 评测 |
-| 工程开发 | Python、TypeScript、FastAPI、React、Vite、PostgreSQL、SQLite、Git |
-| 机器学习 | XGBoost、LightGBM、特征工程、不平衡学习、时间序列建模 |
-| 当前关注 | Agent Runtime、上下文工程、Skill 演化、Coding Agent、Agent 可观测性 |
+`Python` · `LangGraph` · `FastAPI` · `React` · `PostgreSQL` · `RAG` · `Tool Calling`
 
-## 科研经历
-
-- 以第一作者身份开展面向复杂物理系统的深度学习、强化学习与生成式建模研究，成果发表于 *Nuclear Science and Techniques*。
-- 参与乏燃料后处理分配比预测研究，成果发表于《原子能科学技术》。
-- 在中国核学会年会上报告《三种机器学习算法在反应堆运行参数推断中的比较研究》。
-
-## 近期探索
-
-- 从真实 Agent 轨迹中实现更可靠的 Skill 演化
-- 从长程、工具密集型会话中高效检索证据
-- 规划、执行、审查与确定性验证之间的运行时边界
-- Agentic Coding 系统的实用评测方法
-
-<p align="center">
-  <sub>欢迎交流 AI Agent、大模型应用与 2027 届校招机会。</sub>
-</p>
+**当前关注：** Agent Runtime · 上下文工程 · Coding Agents · Skill 演化
