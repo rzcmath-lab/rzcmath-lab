@@ -23,6 +23,16 @@
 - 🔍 关注 Agent Runtime、上下文工程、Memory、RAG、工具调用与评测
 - 🚀 寻找 **2027 届 AI Agent 工程 / 大模型应用方向**岗位
 
+## 公开工程证据
+
+| 仓库 | 展示内容 |
+| --- | --- |
+| [agent-self-evolution](https://github.com/rzcmath-lab/agent-self-evolution) | 基于轨迹证据的失败归因、可审查 Skill 提案与确定性验证设计 |
+| [chat-excel-agent-workbench](https://github.com/rzcmath-lab/chat-excel-agent-workbench) | 受控智能表格分析工作台的纯文档、脱敏系统设计案例 |
+| [agent-engineering-notes](https://github.com/rzcmath-lab/agent-engineering-notes) | Agent 架构、工具、上下文、记忆与评测的体系化笔记 |
+
+> 公开仓库只包含脱敏 Markdown 文档；专有实现、内部数据、Prompt、配置和凭据均不公开。
+
 ## 我的方向
 
 <table>
