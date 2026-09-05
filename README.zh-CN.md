@@ -49,6 +49,8 @@
     </td>
   </tr>
   <tr>
+    | [agent-memory-recall](https://github.com/rzcmath-lab/agent-memory-recall) | 面向长会话 Agent 的隐私安全、grep-first 证据召回与分层记忆策略 |
+| [agent-skill-governance](https://github.com/rzcmath-lab/agent-skill-governance) | Skill 演化中的证据准入、归属、语义去重与全局审查方法 |
     <td width="50%" valign="top">
       <h3>AI 应用工程</h3>
       <p>覆盖 Agent 编排、后端服务、数据存储与 Web 界面的端到端原型交付。</p>
