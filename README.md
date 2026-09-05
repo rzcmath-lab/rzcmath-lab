@@ -23,6 +23,16 @@ I build AI agents that move beyond demos: systems with clear workflows, reliable
 - 🔍 Interested in Agent Runtime, Context Engineering, Memory, RAG, Tool Use, and Evaluation
 - 🚀 Seeking **2027 graduate roles** in AI Agent Engineering / LLM Applications
 
+## Featured engineering evidence
+
+| Repository | What it demonstrates |
+| --- | --- |
+| [agent-self-evolution](https://github.com/rzcmath-lab/agent-self-evolution) | Sanitized design for trace-grounded failure attribution, reviewable skill proposals, and deterministic validation |
+| [chat-excel-agent-workbench](https://github.com/rzcmath-lab/chat-excel-agent-workbench) | Documentation-only case study of a controlled AI spreadsheet-analysis workspace |
+| [agent-engineering-notes](https://github.com/rzcmath-lab/agent-engineering-notes) | Structured notes on agent architecture, tools, context, memory, and evaluation |
+
+> Public repositories contain sanitized Markdown documentation only. Proprietary implementations, internal data, prompts, configurations, and credentials are not published.
+
 ## What I work on
 
 <table>
