@@ -50,6 +50,8 @@ I build AI agents that move beyond demos: systems with clear workflows, reliable
   </tr>
   <tr>
     <td width="50%" valign="top">
+      | [agent-memory-recall](https://github.com/rzcmath-lab/agent-memory-recall) | Privacy-safe, grep-first recall and layered memory policies for long-running agents |
+| [agent-skill-governance](https://github.com/rzcmath-lab/agent-skill-governance) | Evidence-based admission, ownership, deduplication, and review patterns for skill evolution |
       <h3>AI application engineering</h3>
       <p>Deliver end-to-end prototypes across agent orchestration, backend services, data storage, and web interfaces.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>SQL</code></p>
