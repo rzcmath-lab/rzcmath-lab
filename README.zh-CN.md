@@ -16,6 +16,9 @@
   华东师范大学 · 快手 · 上汽智己 · 上海 · 2027 届
 </p>
 <p align="center">
+  <strong>从数学建模与业务机器学习，逐步走向多智能体应用与自我演化的 Agent 系统。</strong>
+</p>
+<p align="center">
   <a href="mailto:51275500047@stu.ecnu.edu.cn">邮箱联系</a>
 </p>
 
@@ -23,15 +26,15 @@
   <tr>
     <td width="50%" valign="top">
       <h2>💼 经历</h2>
-      <p><strong>快手 · Agent 工程</strong><br/>Agent 自我改进、Skill 演化与长会话可靠性。</p>
-      <p><strong>上汽智己 · Agent 应用</strong><br/>面向数据分析与文档自动化的多智能体工作流。</p>
-      <p><strong>算法与风控建模</strong><br/>类别不平衡与时间分布漂移下的稳健建模。</p>
+      <p><strong>快手 · Agent 工程</strong><br/>从 Agent 应用进一步深入自我改进、Skill 演化、长上下文可靠性与 Runtime 工程。</p>
+      <p><strong>上汽智己 · Agent 应用</strong><br/>从模型中心的 ML 转向端到端多智能体应用，覆盖数据分析与自动化工作流。</p>
+      <p><strong>业务 ML · 推荐与风控</strong><br/>在真实数据约束下进行机器学习建模，关注特征工程、稳健性与泛化能力。</p>
     </td>
     <td width="50%" valign="top">
-      <h2>🔬 研究与工程</h2>
-      <p><a href="https://github.com/rzcmath-lab/agent-self-evolution"><strong>Agent Self-Evolution</strong></a><br/>基于轨迹证据的失败诊断与可审查 Skill 提案。</p>
-      <p><a href="https://github.com/rzcmath-lab/chat-excel-agent-workbench"><strong>ChatExcel Agent Workbench</strong></a><br/>受控数据分析 Agent 的系统设计。</p>
-      <p><a href="https://github.com/rzcmath-lab/agent-engineering-notes"><strong>Agent Engineering Notes</strong></a><br/>Runtime、Memory、RAG 与评测的体系化笔记。</p>
+      <h2>🔬 科研基础</h2>
+      <p><strong>Nuclear Science and Techniques · 第一作者</strong><br/>反应堆物理中的 AI 方法、应用现状与研究方向。</p>
+      <p><strong>Journal of Nuclear Engineering and Radiation Science · 第二作者</strong><br/>基于机器学习的反应堆运行参数推断。</p>
+      <p><strong>AI for Science</strong><br/>数学建模、科学机器学习与复杂系统推理。</p>
     </td>
   </tr>
 </table>
@@ -63,16 +66,21 @@
 
 更多工程证据：[记忆召回](https://github.com/rzcmath-lab/agent-memory-recall) · [Skill 治理](https://github.com/rzcmath-lab/agent-skill-governance)
 
-## 代表论文
+## 代表科研
 
-- **第一作者** · [*Artificial intelligence in reactor physics: current status and future prospects*](https://doi.org/10.1007/s41365-026-01928-z)  
-  *Nuclear Science and Techniques*, 37, 100 (2026)。
-- **第二作者** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236)  
-  *Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801 (2026)。
-- **共同作者** · [《基于机器学习的30%TBP/煤油-硝酸体系中主要组分的分配比预测研究》](https://doi.org/10.7538/yzk.2024.youxian.0238)  
-  《原子能科学技术》，59(1)：14–23（2025）。
-- **共同作者** · [《机器学习在PUREX工艺中的应用综述》](https://www.qikan.com.cn/article/b31620250206.html)  
-  《四川大学学报（自然科学版）》，2025 年第 2 期。
+在进入生产级 AI 系统之前，我以数学建模与科学机器学习建立了复杂问题分析基础。
+
+**第一作者 · Nuclear Science and Techniques（2026）**  
+[*Artificial intelligence in reactor physics: current status and future prospects*](https://doi.org/10.1007/s41365-026-01928-z) · 第 37 卷，Article 100
+
+<details>
+<summary><strong>查看全部 4 篇论文</strong></summary>
+
+- **第二作者** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236)，*Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801（2026）。
+- **共同作者** · [《基于机器学习的30%TBP/煤油-硝酸体系中主要组分的分配比预测研究》](https://doi.org/10.7538/yzk.2024.youxian.0238)，《原子能科学技术》，59(1)：14–23（2025）。
+- **共同作者** · [《机器学习在PUREX工艺中的应用综述》](https://www.qikan.com.cn/article/b31620250206.html)，《四川大学学报（自然科学版）》，2025 年第 2 期。
+
+</details>
 
 ## 技术栈
 
