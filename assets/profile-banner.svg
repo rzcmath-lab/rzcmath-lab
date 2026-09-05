@@ -1,0 +1,28 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="20" x2="1120" y2="345" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.52" stop-color="#EFF6FF"/>
+      <stop offset="1" stop-color="#F5F3FF"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="890" y1="55" x2="1105" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="blur" x="720" y="-80" width="570" height="520" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1015" cy="174" r="170" fill="url(#orb)" opacity="0.22" filter="url(#blur)"/>
+  <circle cx="1040" cy="174" r="96" stroke="#2563EB" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="1040" cy="174" r="58" fill="white" fill-opacity="0.72" stroke="white" stroke-width="2"/>
+  <path d="M1009 179L1030 200L1075 151" stroke="#2563EB" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="68" y="60" width="174" height="34" rx="17" fill="#DBEAFE"/>
+  <text x="155" y="82" text-anchor="middle" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">AI AGENT ENGINEER</text>
+  <text x="68" y="162" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Ruizhi Zhang</text>
+  <text x="68" y="209" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="24">Building reliable agents from ideas to real systems.</text>
+  <text x="68" y="270" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="17">Agent Runtime · Skill Evolution · LangGraph · AI Applications</text>
+  <rect x="68" y="302" width="620" height="2" rx="1" fill="#CBD5E1"/>
+</svg>
+
