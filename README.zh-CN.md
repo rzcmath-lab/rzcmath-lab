@@ -1,8 +1,6 @@
-<h2 align="center">
-  <a href="https://github.com/rzcmath-lab">你好，我是张睿志 · Ruizhi Zhang — AI Agent 工程师</a>
-</h2>
-
-<br/>
+<p align="center">
+  <img src="./assets/profile-title.svg" alt="你好，我是张睿志 · Ruizhi Zhang — AI Agent 工程师" width="82%" />
+</p>
 
 <p align="center">
   <img src="./assets/agent-focus.svg" alt="Agent 自我演化 · Agent Runtime · 上下文工程 · AI 应用" width="90%" />
