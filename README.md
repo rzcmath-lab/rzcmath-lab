@@ -5,11 +5,11 @@
 <br/>
 
 <p align="center">
-  👋 <strong>Agent Self-Evolution · Agent Runtime · Context Engineering · AI Applications</strong>
+  <img src="./assets/agent-focus.svg" alt="Agent Self-Evolution · Agent Runtime · Context Engineering · AI Applications" width="90%" />
 </p>
 
 <p align="center">
-  <code>🎓 ECNU</code> · <code>💼 Kuaishou</code> · <code>🚗 IM Motors</code> · <code>📍 Shanghai</code> · <code>🎯 2027 Graduate</code>
+  <code>🎓 ECNU</code> · <code>💼 Kuaishou</code> · <code>🚗 SAIC</code> · <code>📍 Shanghai</code> · <code>🎯 2027 Graduate</code>
 </p>
 <p align="center">
   <strong>From mathematical modeling and production ML to multi-agent applications and self-evolving agent systems.</strong>
@@ -23,7 +23,7 @@
     <td width="50%" valign="top">
       <h3>💼 Experience</h3>
       <p><strong>Kuaishou · Agent Engineering</strong><br/>Going beyond agent applications into self-improvement, skill evolution, long-context reliability, and runtime-oriented engineering.</p>
-      <p><strong>IM Motors · Agent Applications</strong><br/>Moved from model-centric ML to end-to-end multi-agent applications for data analysis and automation.</p>
+      <p><strong>SAIC · Agent Applications</strong><br/>Moved from model-centric ML to end-to-end multi-agent applications for data analysis and automation.</p>
       <p><strong>Production ML · Recommendation & Risk</strong><br/>Applied machine learning under real-world data constraints, focusing on feature engineering, robustness, and generalization.</p>
     </td>
     <td width="50%" valign="top">
