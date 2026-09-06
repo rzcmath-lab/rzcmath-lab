@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="58" viewBox="0 0 900 58" role="img" aria-labelledby="title desc">
+  <title id="title">Agent engineering focus</title>
+  <desc id="desc">Agent Self-Evolution, Agent Runtime, Context Engineering, and AI Applications</desc>
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#24292f"/>
+      <stop offset="0.42" stop-color="#24292f"/>
+      <stop offset="0.5" stop-color="#0969da"/>
+      <stop offset="0.58" stop-color="#24292f"/>
+      <stop offset="1" stop-color="#24292f"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .label { font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .15px; }
+      @media (prefers-color-scheme: dark) {
+        #shine stop { stop-color: #f0f6fc; }
+      }
+    </style>
+  </defs>
+  <text class="label" x="450" y="29" text-anchor="middle" dominant-baseline="middle" fill="url(#shine)">Agent Self-Evolution · Agent Runtime · Context Engineering · AI Applications</text>
+  <rect x="286" y="48" width="328" height="2" rx="1" fill="#0969da" opacity=".8">
+    <animate attributeName="x" values="286;410;286" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="328;80;328" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;.9;.25" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
