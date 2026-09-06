@@ -1,8 +1,6 @@
-<h2 align="center">
-  <a href="https://github.com/rzcmath-lab">Hi, I'm Ruizhi Zhang · 张睿志 — AI Agent Engineer</a>
-</h2>
-
-<br/>
+<p align="center">
+  <img src="./assets/profile-title.svg" alt="Hi, I'm Ruizhi Zhang · 张睿志 — AI Agent Engineer" width="82%" />
+</p>
 
 <p align="center">
   <img src="./assets/agent-focus.svg" alt="Agent Self-Evolution · Agent Runtime · Context Engineering · AI Applications" width="90%" />
