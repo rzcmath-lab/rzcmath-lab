@@ -27,7 +27,7 @@
     <td width="50%" valign="top">
       <h3>🔬 Research Foundation</h3>
       <p><strong>Nuclear Science and Techniques · First Author</strong><br/>AI methods and research directions in reactor physics.</p>
-      <p><strong>Journal of Nuclear Engineering and Radiation Science · Second Author</strong><br/>Machine-learning-based reactor parameter inference.</p>
+      <p><strong>Journal of Nuclear Engineering and Radiation Science · Co-first Author</strong><br/>Machine-learning-based reactor parameter inference.</p>
       <p><strong>AI for Science</strong><br/>Mathematical modeling, scientific machine learning, and complex-system reasoning.</p>
     </td>
   </tr>
@@ -70,7 +70,7 @@ Research foundation in mathematical modeling and scientific machine learning bef
 <details>
 <summary><strong>View all 4 publications</strong></summary>
 
-- **Second author** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236), *Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801 (2026).
+- **Co-first author** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236), *Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801 (2026).
 - **Co-author** · [*Distribution Ratio Prediction of Major Components in 30%TBP/kerosene-HNO3 System Based on Machine Learning*](https://doi.org/10.7538/yzk.2024.youxian.0238), *Atomic Energy Science and Technology*, 59(1), 14–23 (2025).
 - **Co-author** · [*机器学习在PUREX工艺中的应用综述*](https://www.qikan.com.cn/article/b31620250206.html), *Journal of Sichuan University (Natural Science Edition)*, No. 2 (2025).
 
