@@ -1,37 +1,33 @@
+<h2 align="center">
+  <a href="https://github.com/rzcmath-lab">你好，我是张睿志 · Ruizhi Zhang — AI Agent 工程师</a>
+</h2>
+
+<br/>
+
 <p align="center">
-  <strong>简体中文</strong> · <a href="./README.md">English</a>
+  👋 <strong>Agent 自我演化 · Agent Runtime · 上下文工程 · AI 应用</strong>
 </p>
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="张睿志 — AI Agent 工程师" width="100%" />
-</p>
-
-<h1 align="center">你好，我是张睿志 · Ruizhi Zhang</h1>
-<h3 align="center">AI Agent 工程师</h3>
-
-<p align="center">
-  Agent 自我演化 · Agent Runtime · 上下文工程 · AI 应用
-</p>
-<p align="center">
-  华东师范大学 · 快手 · 上汽智己 · 上海 · 2027 届
+  <code>🎓 华东师范大学</code> · <code>💼 快手</code> · <code>🚗 上汽智己</code> · <code>📍 上海</code> · <code>🎯 2027 届</code>
 </p>
 <p align="center">
   <strong>从数学建模与业务机器学习，逐步走向多智能体应用与自我演化的 Agent 系统。</strong>
 </p>
 <p align="center">
-  <a href="mailto:51275500047@stu.ecnu.edu.cn">邮箱联系</a>
+  <a href="mailto:51275500047@stu.ecnu.edu.cn">📮 邮箱联系</a> · <strong>简体中文</strong> · <a href="./README.md">English</a>
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2>💼 经历</h2>
+      <h3>💼 经历</h3>
       <p><strong>快手 · Agent 工程</strong><br/>从 Agent 应用进一步深入自我改进、Skill 演化、长上下文可靠性与 Runtime 工程。</p>
       <p><strong>上汽智己 · Agent 应用</strong><br/>从模型中心的 ML 转向端到端多智能体应用，覆盖数据分析与自动化工作流。</p>
       <p><strong>业务 ML · 推荐与风控</strong><br/>在真实数据约束下进行机器学习建模，关注特征工程、稳健性与泛化能力。</p>
     </td>
     <td width="50%" valign="top">
-      <h2>🔬 科研基础</h2>
+      <h3>🔬 科研基础</h3>
       <p><strong>Nuclear Science and Techniques · 第一作者</strong><br/>反应堆物理中的 AI 方法、应用现状与研究方向。</p>
       <p><strong>Journal of Nuclear Engineering and Radiation Science · 第二作者</strong><br/>基于机器学习的反应堆运行参数推断。</p>
       <p><strong>AI for Science</strong><br/>数学建模、科学机器学习与复杂系统推理。</p>
@@ -64,7 +60,7 @@
   </tr>
 </table>
 
-更多工程证据：[记忆召回](https://github.com/rzcmath-lab/agent-memory-recall) · [Skill 治理](https://github.com/rzcmath-lab/agent-skill-governance)
+> **更多工程证据：** [记忆召回](https://github.com/rzcmath-lab/agent-memory-recall) · [Skill 治理](https://github.com/rzcmath-lab/agent-skill-governance)
 
 ## 代表科研
 
