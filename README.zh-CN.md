@@ -27,7 +27,7 @@
     <td width="50%" valign="top">
       <h3>🔬 科研基础</h3>
       <p><strong>Nuclear Science and Techniques · 第一作者</strong><br/>反应堆物理中的 AI 方法、应用现状与研究方向。</p>
-      <p><strong>Journal of Nuclear Engineering and Radiation Science · 第二作者</strong><br/>基于机器学习的反应堆运行参数推断。</p>
+      <p><strong>Journal of Nuclear Engineering and Radiation Science · 共同第一作者</strong><br/>基于机器学习的反应堆运行参数推断。</p>
       <p><strong>AI for Science</strong><br/>数学建模、科学机器学习与复杂系统推理。</p>
     </td>
   </tr>
@@ -70,7 +70,7 @@
 <details>
 <summary><strong>查看全部 4 篇论文</strong></summary>
 
-- **第二作者** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236)，*Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801（2026）。
+- **共同第一作者** · [*Comparative Study of Three Machine Learning Algorithms for Reactor Operation Parameter Inference*](https://doi.org/10.1115/1.4071236)，*Journal of Nuclear Engineering and Radiation Science*, 12(2), 021801（2026）。
 - **共同作者** · [《基于机器学习的30%TBP/煤油-硝酸体系中主要组分的分配比预测研究》](https://doi.org/10.7538/yzk.2024.youxian.0238)，《原子能科学技术》，59(1)：14–23（2025）。
 - **共同作者** · [《机器学习在PUREX工艺中的应用综述》](https://www.qikan.com.cn/article/b31620250206.html)，《四川大学学报（自然科学版）》，2025 年第 2 期。
 
