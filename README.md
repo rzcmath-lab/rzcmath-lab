@@ -1,37 +1,33 @@
+<h2 align="center">
+  <a href="https://github.com/rzcmath-lab">Hi, I'm Ruizhi Zhang · 张睿志 — AI Agent Engineer</a>
+</h2>
+
+<br/>
+
 <p align="center">
-  <a href="./README.zh-CN.md">简体中文</a> · <strong>English</strong>
+  👋 <strong>Agent Self-Evolution · Agent Runtime · Context Engineering · AI Applications</strong>
 </p>
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Ruizhi Zhang — AI Agent Engineer" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Ruizhi Zhang · 张睿志</h1>
-<h3 align="center">AI Agent Engineer</h3>
-
-<p align="center">
-  Agent Self-Evolution · Agent Runtime · Context Engineering · AI Applications
-</p>
-<p align="center">
-  ECNU · Kuaishou · IM Motors · Shanghai · 2027 Graduate
+  <code>🎓 ECNU</code> · <code>💼 Kuaishou</code> · <code>🚗 IM Motors</code> · <code>📍 Shanghai</code> · <code>🎯 2027 Graduate</code>
 </p>
 <p align="center">
   <strong>From mathematical modeling and production ML to multi-agent applications and self-evolving agent systems.</strong>
 </p>
 <p align="center">
-  <a href="mailto:51275500047@stu.ecnu.edu.cn">Email</a>
+  <a href="mailto:51275500047@stu.ecnu.edu.cn">📮 Email</a> · <a href="./README.zh-CN.md">简体中文</a> · <strong>English</strong>
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2>💼 Experience</h2>
+      <h3>💼 Experience</h3>
       <p><strong>Kuaishou · Agent Engineering</strong><br/>Going beyond agent applications into self-improvement, skill evolution, long-context reliability, and runtime-oriented engineering.</p>
       <p><strong>IM Motors · Agent Applications</strong><br/>Moved from model-centric ML to end-to-end multi-agent applications for data analysis and automation.</p>
       <p><strong>Production ML · Recommendation & Risk</strong><br/>Applied machine learning under real-world data constraints, focusing on feature engineering, robustness, and generalization.</p>
     </td>
     <td width="50%" valign="top">
-      <h2>🔬 Research Foundation</h2>
+      <h3>🔬 Research Foundation</h3>
       <p><strong>Nuclear Science and Techniques · First Author</strong><br/>AI methods and research directions in reactor physics.</p>
       <p><strong>Journal of Nuclear Engineering and Radiation Science · Second Author</strong><br/>Machine-learning-based reactor parameter inference.</p>
       <p><strong>AI for Science</strong><br/>Mathematical modeling, scientific machine learning, and complex-system reasoning.</p>
@@ -64,7 +60,7 @@
   </tr>
 </table>
 
-More engineering evidence: [Memory Recall](https://github.com/rzcmath-lab/agent-memory-recall) · [Skill Governance](https://github.com/rzcmath-lab/agent-skill-governance)
+> **More engineering evidence:** [Memory Recall](https://github.com/rzcmath-lab/agent-memory-recall) · [Skill Governance](https://github.com/rzcmath-lab/agent-skill-governance)
 
 ## Selected Research
 
